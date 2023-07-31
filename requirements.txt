@@ -4,4 +4,3 @@ pandas
 gensim
 nltk
 requests
-ZipFile
