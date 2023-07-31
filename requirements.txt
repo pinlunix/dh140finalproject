@@ -4,4 +4,4 @@ pandas
 gensim
 nltk
 requests
-zipfile
+pip install zipfile
