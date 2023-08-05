@@ -10,12 +10,10 @@ I am interested in exploring how graphic novels have evolved over time. I do not
 
 
 ## Question(s)
-**Subject to change**
-* What patterns/trends can be observed in the original language of graphic novel publications over time?
-* Why is a particular genre more popular than others?
-* If a popular genre is replaced by another genre over time, why?
-* Why is one type of adaptation more popular than other forms of adaptation for graphic novels?
-* Why are some graphic novels adapted more often than others?
+* What conclusions can be made about the gender ratio of authors of graphic novels?
+* Why does one country have more graphic novel authors than others?
+* What can be observed with the top 10 most popular books?
+* Describe any pattern(s) observed in when graphic novels were published?
 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pinlunix/dh140finalproject/HEAD)
